@@ -11,20 +11,12 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi!  I am Elowen (She/her), and I am in the MSPPM program. Dataviz appeals to me because it sits somewhere between analysis and communication, and it can make policy issues feel more concrete and easier to talk about. I'm still building my skills, but I'm excited to learn how to make charts that are clear, honest, and useful to audiences.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- How to use color, layout, annotation, and visual hierarchy to make a story clearer
+- How to build a narrative around data without oversimplifying or misleading
+- How to design accessible visualizations for different audiences
 
 # Portfolio
 
