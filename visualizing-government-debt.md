@@ -4,7 +4,7 @@
 
 This visualization compares the increase in government debt-to-GDP ratios during the 2008–2009 financial crisis and the 2019–2020 COVID-19 period. Most countries experienced larger debt increases during COVID, and a small group of countries (highlighted in red) were above the median in both crises.
 
-<div class='tableauPlaceholder' id='viz1793552839871' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1793553218207' style='position: relative'>
   <noscript>
     <a href='#'>
       <img alt='COVID-19 Drove Larger Debt Increases Than the 2008 Crisis for Most Countries (Source: OECD)' src='https://public.tableau.com/static/images/CO/COVID-19DroveLargerDebtIncreasesThanthe2008CrisisforMostCountriesSourceOECD/COVID-19DroveLargerDebtIncreasesThanthe2008CrisisforMostCountriesSourceOECD/1_rss.png' style='border: none' />
@@ -23,11 +23,11 @@ This visualization compares the increase in government debt-to-GDP ratios during
     <param name='display_spinner' value='yes' />
     <param name='display_overlay' value='yes' />
     <param name='display_count' value='yes' />
-    <param name='language' value='zh-CN' />
+    <param name='language' value='en-US' />
   </object>
 </div>
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1793552839871');
+  var divElement = document.getElementById('viz1793553218207');
   var vizElement = divElement.getElementsByTagName('object')[0];
   vizElement.style.width='100%';
   vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
