@@ -34,24 +34,27 @@ The sketch helped me confirm that a slope chart could make the increase across s
 
 ## Step four: Test the solution
 
-Student, MSIM program:
-- Noted that upward-sloping lines can feel positive even when the indicator is negative, and suggested exploring the complement so the lines would slope downward.  
-- Found the dashed world-average line effective.  
-- Recommended calling out regions that exceed 50 percent in the title because the halfway mark makes the scale of the problem more immediate.  
+**Student, MSIM program:**
+
+- Noted that upward-sloping lines can feel positive even when the indicator is negative, and suggested exploring the complement so the lines would slope downward.
+- Found the dashed world-average line effective.
+- Recommended calling out regions that exceed 50 percent in the title because the halfway mark makes the scale of the problem more immediate.
 - Observed that the left-to-right order of the stages matches an intuitive time flow.
 
-Student, first year:
-- Said the word “gap” in the title required extra time to interpret.  
-- Pointed out that the lower cluster of lines does not show a clear gap, so a general claim about gaps could be misleading.  
-- Preferred the y-axis definition placed above the axis rather than beside it and questioned whether the definition needed to be so prominent.  
+**Student, first year:**
+
+- Said the word “gap” in the title required extra time to interpret.
+- Pointed out that the lower cluster of lines does not show a clear gap, so a general claim about gaps could be misleading.
+- Preferred the y-axis definition placed above the axis rather than beside it and questioned whether the definition needed to be so prominent.
 - Agreed that the slope chart suited the intended message.
 
-Student, mid-20s:
-- Found the slope chart appropriate for the message.  
-- Liked the combination of a dashed line and square markers for the world average.  
+**Student, mid-20s:**
+
+- Found the slope chart appropriate for the message.
+- Liked the combination of a dashed line and square markers for the world average.
 - Suggested moving the indicator definition to a footnote so that readers who already know the definition are not required to read it again.
 
-Synthesis: 
+**Synthesis:**
 
 Across the feedback, the slope-chart direction and the visual treatment of the world average were consistently supported. Points of friction centered on the title’s clarity, the prominence of the definition, and the risk that “gap” overstated the pattern in the lower lines. In response I kept the slope chart and the distinct world-average treatment, moved the definition into a caption, and revised the title and subtitle to name the two regions, state the size of the increase in percentage points, and note that more than half of upper-secondary-age youth are out of school in Sub-Saharan Africa.
 
@@ -67,7 +70,7 @@ Across the feedback, the slope-chart direction and the visual treatment of the w
 </script>
 
 
-I built the chart in Tableau. The final version uses a dual-axis view. One axis draws the lines; the other draws the markers and the end labels. Calculated fields create the three stage labels, map World to “World average,” group regions into style categories, and generate labels only at the upper-secondary points. An extra blank category on the columns shelf creates space on the right for the labels. Sub-Saharan Africa is drawn in dark red and Southern Asia in bright orange, both with thicker lines. The world average uses a dark gray dashed line and square markers. The remaining regions appear in light blue with thinner lines. The y-axis runs from 0 to 65 with major ticks every 10. Grid lines are light and dotted. The definition of the indicator and the source appear in the caption.
+I built the chart in Tableau. The final version uses a dual-axis view. One axis draws the lines; the other draws the markers and the end labels. Calculated fields create the three stage labels, map World to “World average,” group regions into style categories, and generate labels only at the upper-secondary points. An extra blank category on the columns shelf creates space on the right for the labels. Sub-Saharan Africa is drawn in dark red and Southern Asia in bright orange, both with thicker lines. The world average uses a dark gray line and square markers. The remaining regions appear in light blue with thinner lines. The y-axis runs from 0 to 65 with major ticks every 10. Grid lines are light and dotted. The definition of the indicator and the source appear in the caption.
 
 The title reads “Out-of-School Rates Rise Sharply with Education Level — Widening the Regional Gap to 51 Percentage Points.” The subtitle states that Sub-Saharan Africa and Southern Asia drive the divergence, each rising 38.7 percentage points from primary to upper secondary age, and that more than half of upper-secondary-age youth are out of school in Sub-Saharan Africa.
 
@@ -81,5 +84,5 @@ Few, S. (2017). *Data visualization effectiveness profile*. Perceptual Edge. htt
 
 ## AI acknowledgements
 
-1. I generated early prototype images of the slope chart using Gemini. I uploaded a photo of my pencil sketch and described in detail the redesign ideas I had already decided on, including which regions to highlight, how to treat the world average, the placement of labels, and the overall visual hierarchy. Gemini produced several static image versions of the slope chart based on that description. I used those images only as visual references while refining the layout. The design decisions themselves, the data, and the final implementation remained my own.
+1. I generated early prototype images of the slope chart using Gemini. I uploaded a photo of my pencil sketch and described in detail the redesign ideas I had already decided on, including which regions to highlight, how to treat the world average, the placement of labels, and the overall visual hierarchy. Gemini produced several static image versions of the slope chart based on that description. I used those images only as visual references while refining the layout.
 2. I used Gemini to troubleshoot a specific Tableau layout problem. Several region names were long enough that the mark labels overlapped the lines when placed at the end of each series. I asked Gemini how to keep the labels left-aligned at the end of the lines without overlapping the marks. The suggestions helped me adjust the dual-axis setup, the label alignment settings, and the use of a blank column for spacing. I then implemented and tested the solution myself in Tableau.
