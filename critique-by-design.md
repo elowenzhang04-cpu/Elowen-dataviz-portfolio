@@ -25,6 +25,12 @@ The original chart is a bar chart that labels every bar with its exact value and
 
 In the pencil sketch I drew only the lines I wanted to emphasize. Sub-Saharan Africa and Southern Asia appear as solid lines rising sharply. The world average appears as a dashed line with square markers. Other regions are indicated with lighter, incomplete strokes so they stay in the background. The y-axis uses an interval of 20 because the goal is to show the overall trend rather than allow readers to read every exact value. A short definition of the out-of-school rate sits under the y-axis label so that the meaning of the percentage is available without leaving the chart. Region names are placed to the right of the final points.
 
+![Pencil sketch](OOS%20Sketch.jpg)
+
+![Prototype](OOS%20Prototype.png)
+
+*Prototype image generated with Gemini based on my pencil sketch and detailed redesign description.*
+
 The sketch helped me confirm that a slope chart could make the increase across stages and the separation of the two highest regions immediately visible while keeping the world average visually distinct.
 
 ## Step four: Test the solution
