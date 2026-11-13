@@ -29,19 +29,19 @@ The sketch helped me confirm that a slope chart could make the increase across s
 
 ## Step four: Test the solution
 
-**Student, MSIM program  **
+Student, MSIM program:
 - Noted that upward-sloping lines can feel positive even when the indicator is negative, and suggested exploring the complement so the lines would slope downward.  
 - Found the dashed world-average line effective.  
 - Recommended calling out regions that exceed 50 percent in the title because the halfway mark makes the scale of the problem more immediate.  
 - Observed that the left-to-right order of the stages matches an intuitive time flow.
 
-**Student, first year  **
+Student, first year:
 - Said the word “gap” in the title required extra time to interpret.  
 - Pointed out that the lower cluster of lines does not show a clear gap, so a general claim about gaps could be misleading.  
 - Preferred the y-axis definition placed above the axis rather than beside it and questioned whether the definition needed to be so prominent.  
 - Agreed that the slope chart suited the intended message.
 
-**Student, mid-20s  **
+Student, mid-20s:
 - Found the slope chart appropriate for the message.  
 - Liked the combination of a dashed line and square markers for the world average.  
 - Suggested moving the indicator definition to a footnote so that readers who already know the definition are not required to read it again.
@@ -59,7 +59,6 @@ The title reads “Out-of-School Rates Rise Sharply with Education Level — Wid
 The redesigned chart shows that out-of-school rates rise across education levels and that the two highlighted regions account for most of the widening at the upper secondary stage. It reduces ambiguity about the indicator and about the role of the world average while directing attention to the regions with the highest rates.
 
 ## References
-Makeover Monday challenge: [https://makeovermonday.vercel.app/dataset/out-of-school-youths-and-adolescents](https://makeovermonday.vercel.app/dataset/out-of-school-youths-and-adolescents)
 
 UNESCO Institute for Statistics. (2018). *Out-of-school rate by region and age group, 2018*. Makeover Monday. https://makeovermonday.vercel.app/dataset/out-of-school-youths-and-adolescents
 
