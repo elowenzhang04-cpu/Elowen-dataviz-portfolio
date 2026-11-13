@@ -72,15 +72,14 @@ Across the feedback, the slope-chart direction and the visual treatment of the w
 
 I built the chart in Tableau. The final version uses a dual-axis view. One axis draws the lines; the other draws the markers and the end labels. Calculated fields create the three stage labels, map World to “World average,” group regions into style categories, and generate labels only at the upper-secondary points. An extra blank category on the columns shelf creates space on the right for the labels. Sub-Saharan Africa is drawn in dark red and Southern Asia in bright orange, both with thicker lines. The world average uses a dark gray line and square markers. The remaining regions appear in light blue with thinner lines. The y-axis runs from 0 to 65 with major ticks every 10. Grid lines are light and dotted. The definition of the indicator and the source appear in the caption.
 
-The title reads “Out-of-School Rates Rise Sharply with Education Level — Widening the Regional Gap to 51 Percentage Points.” The subtitle states that Sub-Saharan Africa and Southern Asia drive the divergence, each rising 38.7 percentage points from primary to upper secondary age, and that more than half of upper-secondary-age youth are out of school in Sub-Saharan Africa.
+To act on the testing feedback, I restructured the header into a main title for the macro pattern and a subtitle for attribution and severity. I anchored the main title with the exact 51-percentage-point spread between the highest and lowest regions at the upper secondary stage: "Out-of-School Rates Rise Sharply with Education Level — Widening the Regional Gap to 51 Percentage Points." I used the opening of the subtitle to narrow the claim by naming Sub-Saharan Africa and Southern Asia and noting their identical 38.7-percentage-point jump, so readers immediately see that these two lines drive the divergence. I closed the subtitle by translating Sub-Saharan Africa's peak rate into an everyday threshold: "leaving more than half of upper-secondary youth out of school in Sub-Saharan Africa." Framing the peak around a 50 percent benchmark makes the human scale of the problem concrete and sets the right policy urgency before the reader even examines the axes.
 
-The redesigned chart shows that out-of-school rates rise across education levels and that the two highlighted regions account for most of the widening at the upper secondary stage. It reduces ambiguity about the indicator and about the role of the world average while directing attention to the regions with the highest rates.
+The redesigned chart shows that out-of-school rates rise across all three education levels, and that the increase is especially steep in Sub-Saharan Africa and Southern Asia. From primary to upper secondary age, both regions jump 38.7 percentage points, leaving more than half of upper-secondary-age youth out of school in Sub-Saharan Africa. Other regions remain clustered well below the world average at the upper secondary stage, so the visual separation makes clear that the two highlighted regions drive most of the widening gap.
 
 ## References
 
-UNESCO Institute for Statistics. (2018). *Out-of-school rate by region and age group, 2018*. Makeover Monday. https://makeovermonday.vercel.app/dataset/out-of-school-youths-and-adolescents
-
-Few, S. (2017). *Data visualization effectiveness profile*. Perceptual Edge. http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
+- UNESCO Institute for Statistics. (2018). *Out-of-school rate by region and age group, 2018*. Makeover Monday. <https://makeovermonday.vercel.app/dataset/out-of-school-youths-and-adolescents>
+- Few, S. (2017). *Data visualization effectiveness profile*. Perceptual Edge. <http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf>
 
 ## AI acknowledgements
 
