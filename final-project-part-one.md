@@ -104,8 +104,6 @@ Bureau of Transportation Statistics. (n.d.). *Air Carrier Mishandled Baggage (Fo
 
 Bureau of Transportation Statistics. (2018, October 31). *Technical Reporting Directive #30: Mishandled baggage and wheelchairs and scooters*. U.S. Department of Transportation. [https://www.bts.gov/topics/airlines-and-airports/number-30-%E2%80%93-technical-directive-mishandled-baggage-effective-jan-1-2019](https://www.bts.gov/topics/airlines-and-airports/number-30-%E2%80%93-technical-directive-mishandled-baggage-effective-jan-1-2019)
 
-Pfeiffer, J. L., Bower, W., & Rumrill, P. (2024). Investigating the challenges of air travel in the United States: A qualitative study of the lived experiences of wheelchair users with spinal cord injury or disorder. *Spinal Cord Series and Cases, 10*, Article 25. [https://doi.org/10.1038/s41394-024-00641-6](https://doi.org/10.1038/s41394-024-00641-6)
-
 U.S. Department of Transportation. (2024, December 17). *Ensuring safe accommodations for air travelers with disabilities using wheelchairs* (Final rule, 89 Fed. Reg. 102398). [https://www.transportation.gov/airconsumer/final-rule-ensuring-safe-accommodations-air-travelers-PDF](https://www.transportation.gov/airconsumer/final-rule-ensuring-safe-accommodations-air-travelers-PDF)
 
 U.S. Department of Transportation, Office of Aviation Consumer Protection. (n.d.). *Air Travel Consumer Reports*. Retrieved November 18, 2026, from [https://www.transportation.gov/individuals/aviation-consumer-protection/air-travel-consumer-reports](https://www.transportation.gov/individuals/aviation-consumer-protection/air-travel-consumer-reports)
