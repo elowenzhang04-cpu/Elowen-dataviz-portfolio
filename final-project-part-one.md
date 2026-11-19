@@ -36,7 +36,7 @@ The primary audience is the general traveling public, including passengers who t
 
 For most travelers, a mishandled suitcase is an inconvenience. For someone who depends on a wheelchair or scooter, mishandling can mean temporarily losing independent mobility. This visualization will compare the reported mishandling rates of mobility devices and checked baggage over time.
 
-![Preliminary line-chart sketch comparing the annual reported mishandling rates of mobility devices and checked baggage from 2019 through 2025. The mobility-device rate remains more than twice the baggage rate in every year shown.](./images/sketch_1_rate_gap.png)
+![Preliminary line-chart sketch comparing the annual reported mishandling rates of mobility devices and checked baggage from 2019 through 2025. The mobility-device rate remains more than twice the baggage rate in every year shown.](./sketch_1_rate_gap.jpeg)
 
 The two lines are intended to show that the disparity is persistent rather than the result of one unusual year. Direct labels at the end of each line will help identify the two categories without relying on a separate legend.
 
@@ -46,7 +46,7 @@ The two lines are intended to show that the disparity is persistent rather than 
 
 The previous comparison establishes the persistent rate gap. This chart translates those percentages into the number of mobility-device mishandling events reported each year.
 
-![Preliminary bar-chart sketch showing annual reported mobility-device mishandling events from 2019 through 2025. The bars are labeled with both the annual count and weighted mishandling rate, while 2020 is highlighted as an unusual year when travel volume fell sharply.](./images/sketch_2_annual_events.png)
+![Preliminary bar-chart sketch showing annual reported mobility-device mishandling events from 2019 through 2025. The bars are labeled with both the annual count and weighted mishandling rate, while 2020 is highlighted as an unusual year when travel volume fell sharply.](./sketch_2_annual_events.jpeg)
 
 Showing the count and rate together will help prevent changes in travel volume from being mistaken for changes in handling performance. The unusually low count in 2020, for example, largely reflects the sharp decline in the number of devices transported rather than a comparable improvement in the mishandling rate. Across the seven complete years, operating carriers reported 62,967 mishandling events.
 
@@ -56,7 +56,7 @@ Showing the count and rate together will help prevent changes in travel volume f
 
 After establishing the scale of the problem, this visualization takes a closer look at when the recent improvement began.
 
-![Preliminary time-series sketch showing the monthly mobility-device mishandling rate in light gray and the trailing 12-month weighted rate in teal from 2019 through August 2026. A vertical marker shows when the new DOT rule took effect in January 2025. The rolling rate had already begun declining before that date.](./images/sketch_3_monthly_trend.png)
+![Preliminary time-series sketch showing the monthly mobility-device mishandling rate in light gray and the trailing 12-month weighted rate in teal from 2019 through August 2026. A vertical marker shows when the new DOT rule took effect in January 2025. The rolling rate had already begun declining before that date.](./sketch_3_trend.jpeg)
 
 The light-gray line shows the volatility of the monthly data, while the trailing 12-month rate makes the broader pattern easier to see. The January 2025 marker provides policy context, but it is not intended to suggest that the rule caused the decline. Instead, the chart shows that the most recent downward trend was already underway before the rule took effect.
 
@@ -66,13 +66,23 @@ The light-gray line shows the volatility of the monthly data, while the trailing
 
 A national average can hide substantial differences among carriers. This comparison will examine the 14 operating carriers with observations in both 2019 and 2025.
 
-![Preliminary arrow-chart sketch comparing operating carriers’ reported mobility-device mishandling rates in 2019 and 2025. Twelve teal arrows point toward lower rates in 2025, while two gray arrows show carriers whose rates increased.](./images/sketch_4_carrier_change.png)
+![Preliminary arrow-chart sketch comparing operating carriers’ reported mobility-device mishandling rates in 2019 and 2025. Twelve teal arrows point toward lower rates in 2025, while two gray arrows show carriers whose rates increased.](./sketch_4_dumbbell.png)
 
 The hollow circles represent 2019 rates, and the filled circles represent 2025 rates. Twelve of the fourteen continuing carriers moved toward lower reported mishandling rates, suggesting that the national improvement was broadly shared. Allegiant Air and Alaska moved in the opposite direction and remain visible as exceptions.
 
 *Source: Bureau of Transportation Statistics, Form 234.6, Form 1 operating-carrier records. Only carriers with observations in both 2019 and 2025 are shown.*
 
+### Sketch 5: Does Higher Volume Lead to Higher Rates?
 
+The last chart will examine whether carriers that handle more mobility devices necessarily report higher mishandling rates.
+
+![Preliminary scatterplot comparing mobility-device volume and reported mishandling rates for 14 operating carriers with complete monthly observations from 2023 through 2025. American and Delta handled similar volumes but reported very different rates, while Southwest handled the largest volume without having the highest rate.](./sketch_5_volume_rate.jpeg)
+
+Each point represents one operating carrier. The horizontal axis shows the number of mobility devices enplaned from 2023 through 2025 on a logarithmic scale, while the vertical axis shows the carrier’s weighted mishandling rate over the same period. The dashed line marks the overall weighted rate of 1.26%.
+
+The wide variation among carriers with similar volumes suggests that handling more devices does not, by itself, explain a higher mishandling rate. This shows that poorer outcomes are not an unavoidable result of higher volume.
+
+*Source: Bureau of Transportation Statistics, Form 234.6, Form 1. Includes operating carriers with complete monthly observations from January 2023 through December 2025.*
 
 # The data
 
