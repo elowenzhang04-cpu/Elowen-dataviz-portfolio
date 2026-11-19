@@ -4,7 +4,7 @@
 # Outline
 ## High-Level Summary
 
-For most travelers, a mishandled suitcase is an inconvenience. For a passenger who relies on a wheelchair or scooter, however, a lost, delayed, damaged, or pilfered mobility device can mean losing the ability to move independently, work, or complete a trip as planned. This project will examine how frequently U.S. operating carriers report mishandling passengers’ wheelchairs and scooters, whether that risk has changed since federal reporting began, and whether improvement has been consistent across carriers.
+For most travelers, a mishandled suitcase is an inconvenience. For a passenger who relies on a wheelchair or scooter, however, a lost, delayed, damaged, or pilfered mobility device can mean losing the ability to move independently, work, or complete a trip as planned. This project will examine how frequently U.S. operating carriers report mishandling passengers’ wheelchairs and scooters, whether the reported mishandling rate has changed since federal reporting began, and whether improvement has been consistent across carriers.
 
 Preliminary analysis of Bureau of Transportation Statistics data suggests that operating carriers reported nearly 63,000 mobility-device mishandling events between 2019 and 2025. Although the national weighted mishandling rate declined by approximately 28% over this period, mobility devices were still mishandled at more than twice the rate of checked baggage in every complete year examined. The project will present this as a story of real but incomplete progress: the national average has improved, but a substantial gap remains, and differences among carriers suggest that better outcomes are possible. A federal rule that took effect in January 2025 will appear as policy context, but the project will not claim that the rule caused the decline because the downward trend began earlier.
 
@@ -88,28 +88,20 @@ The wide variation among carriers with similar volumes suggests that handling mo
 
 The primary dataset for this project is the Bureau of Transportation Statistics’ [Air Carrier Mishandled Baggage (Form 234.6) dataset](https://transtats.bts.gov/DL_SelectFields.aspx?QO_fu146_anzr=Zv5un0qyrq+Onttntr&gnoyr_VQ=GGD). It is publicly available through TranStats and can be downloaded without registration. The dataset contains monthly counts of enplaned and mishandled wheelchairs and scooters, along with comparable checked-baggage figures, organized by carrier and report type. The copy downloaded for this project includes mobility-device records from January 2019 through August 2026.
 
-The analysis will primarily use complete calendar years from 2019 through 2025 to examine national trends, compare mobility-device and checked-baggage mishandling rates, and explore differences across carriers. Form 1 records, representing operating carriers, will be used for the core analysis; Form 2 codeshare records will be excluded to avoid combining operating- and marketing-carrier perspectives. Rates will be calculated by dividing total mishandled items by total enplaned items. Since the data are aggregated, the results represent reported mishandling events rather than unique passengers or devices.
-
-## Data Access
-
-- [Official BTS dataset and download page](https://transtats.bts.gov/DL_SelectFields.aspx?QO_fu146_anzr=Zv5un0qyrq+Onttntr&gnoyr_VQ=GGD)
-- [BTS reporting documentation](https://www.bts.gov/topics/airlines-and-airports/number-30-%E2%80%93-technical-directive-mishandled-baggage-effective-jan-1-2019)
+The analysis will primarily use complete calendar years from 2019 through 2025 to examine national trends, compare mobility-device and checked-baggage mishandling rates, and explore differences across carriers. Form 1 records, representing operating carriers, will be used for the core analysis. Rates will be calculated by dividing total mishandled items by total enplaned items. Since the data are aggregated, the results represent reported mishandling events rather than unique passengers or devices.
 
 # Method and medium
 
 I plan to build the final project in **Shorthand**, using **Tableau Public** to create and embed the visualizations. The story will unfold as scrolling, with short sections of text connecting the charts and guiding them through the main findings.
 
-## References
+# References
+
 Bureau of Transportation Statistics. (n.d.). *Air Carrier Mishandled Baggage (Form 234.6)* [Data set]. U.S. Department of Transportation. Retrieved November 16, 2026, from [https://transtats.bts.gov/DL_SelectFields.aspx?QO_fu146_anzr=Zv5un0qyrq+Onttntr&gnoyr_VQ=GGD](https://transtats.bts.gov/DL_SelectFields.aspx?QO_fu146_anzr=Zv5un0qyrq+Onttntr&gnoyr_VQ=GGD)
 
 Bureau of Transportation Statistics. (2018, October 31). *Technical Reporting Directive #30: Mishandled baggage and wheelchairs and scooters*. U.S. Department of Transportation. [https://www.bts.gov/topics/airlines-and-airports/number-30-%E2%80%93-technical-directive-mishandled-baggage-effective-jan-1-2019](https://www.bts.gov/topics/airlines-and-airports/number-30-%E2%80%93-technical-directive-mishandled-baggage-effective-jan-1-2019)
 
 U.S. Department of Transportation. (2024, December 17). *Ensuring safe accommodations for air travelers with disabilities using wheelchairs* (Final rule, 89 Fed. Reg. 102398). [https://www.transportation.gov/airconsumer/final-rule-ensuring-safe-accommodations-air-travelers-PDF](https://www.transportation.gov/airconsumer/final-rule-ensuring-safe-accommodations-air-travelers-PDF)
 
-U.S. Department of Transportation, Office of Aviation Consumer Protection. (n.d.). *Air Travel Consumer Reports*. Retrieved November 18, 2026, from [https://www.transportation.gov/individuals/aviation-consumer-protection/air-travel-consumer-reports](https://www.transportation.gov/individuals/aviation-consumer-protection/air-travel-consumer-reports)
+# AI Acknowledgements
 
-U.S. Government Accountability Office. (2022, November 17). *Passengers with disabilities: Barriers to accessible air travel remain* (GAO-23-106358). [https://www.gao.gov/products/gao-23-106358](https://www.gao.gov/products/gao-23-106358)
-
-## AI acknowledgements
-
-I used Google Gemini to brainstorm and narrow my project topic and to explore possible story structures and visualization approaches. I used these conversations as planning support, and the final written content, data analysis were completed by me.
+I used Google Gemini to brainstorm and narrow my project topic and to explore possible story structures and visualization approaches. I also used Gemini to generate the preliminary sketch images based on my detailed descriptions of the intended charts, data, annotations, and visual design. These conversations and images served as planning support, and the written content and data analysis were completed by me.
