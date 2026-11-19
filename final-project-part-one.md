@@ -66,7 +66,7 @@ The light-gray line shows the volatility of the monthly data, while the trailing
 
 A national average can hide substantial differences among carriers. This comparison will examine the 14 operating carriers with observations in both 2019 and 2025.
 
-![Preliminary arrow-chart sketch comparing operating carriers’ reported mobility-device mishandling rates in 2019 and 2025. Twelve teal arrows point toward lower rates in 2025, while two gray arrows show carriers whose rates increased.](./sketch_4_dumbbell.png)
+![Preliminary arrow-chart sketch comparing operating carriers’ reported mobility-device mishandling rates in 2019 and 2025. Twelve teal arrows point toward lower rates in 2025, while two gray arrows show carriers whose rates increased.](./sketch_4_dumbbell.jpeg)
 
 The hollow circles represent 2019 rates, and the filled circles represent 2025 rates. Twelve of the fourteen continuing carriers moved toward lower reported mishandling rates, suggesting that the national improvement was broadly shared. Allegiant Air and Alaska moved in the opposite direction and remain visible as exceptions.
 
