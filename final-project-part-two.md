@@ -23,8 +23,6 @@ The story begins with the moment when a passenger may be separated from their wh
 
 ## Draft Visualizations
 
-The draft includes five high fidelity visualizations created with the actual project data. Each chart answers a different question in the story.
-
 | Visualization | Question |
 |---|---|
 | Annual mobility-device and baggage rates | Has the disparity continued over time? |
