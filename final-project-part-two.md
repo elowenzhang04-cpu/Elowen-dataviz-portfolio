@@ -199,28 +199,31 @@ Participants questioned whether passengers would know how to report, whether the
 
 # Identified Changes for Part III
 
-| Research Finding | Planned Change for Part III |
-|---|---|
-| The separation stage was clear but passed too quickly. | Give the “Separated” stage more visual space and strengthen the transition between the passenger journey and the data. |
-| Participants wanted the human stakes to remain visible later in the story. | Add one short reminder after the annual count or policy section that a damaged or delayed device can leave a passenger without independent mobility at their destination. |
-| The line chart and total event count were the clearest parts of the story. | Keep these as the first two major data findings and remove unnecessary explanation around them. |
-| The 2020 annotation was useful but easy to overlook. | Make the annotation slightly more visible and keep it close to the 2020 bar. |
-| The rate and count distinction was clear but repeated too often. | Shorten later paragraphs that repeat the small-rate and large-count message. |
-| The policy marker may still imply causation during a quick reading. | Use a lighter and more neutral marker. Label it as policy context and state directly that the decline had already begun. |
-| Readers wanted to know what the federal rule changed, but some found the policy section long. | Keep a concise explanation of the rule’s main protections and move detailed qualifications into a source note. |
-| Policy-minded readers emphasized that the data represent reported events. | Use the word “reported” consistently in titles, captions, and conclusions. Add a methods note explaining that the dataset cannot measure changes in reporting behavior. |
-| The carrier comparison was clear, but readers wanted more context. | Add the number of devices handled to the tooltip or supporting information. Include a note that rates for smaller carriers may be more variable. |
-| The frequent traveler wanted carrier information that could support booking decisions. | Add a link to a carrier data view or official source where readers can check recent performance. Keep the comparison factual rather than presenting a best-airline ranking. |
-| The scatterplot was difficult for all audiences. | Test a simplified version with fewer labels and a short reading guide. Also test a table or aligned comparison of carrier volume and rate. |
-| Some readers valued the scatterplot while others wanted it removed. | If the simplified chart still interrupts the story, move the full scatterplot into an optional section and keep its main conclusion in the central narrative. |
-| The middle sections felt repetitive or visually flat. | Shorten repeated interpretation and add a brief transition before the carrier analysis. Use more space between the main findings. |
-| The conclusion was consistently understood. | Keep “Better performance is possible” as the main conclusion and place the new call-to-action section immediately after it. |
-| Checking rates felt useful, while reporting felt vague or burdensome. | Create a two-part call to action. One part will help passengers find carrier information and official reporting resources. The other will call for airlines and regulators to make carrier rates visible during booking. |
-| Participants were skeptical about the effect of individual complaints. | Explain that reporting contributes to the public record and regulatory oversight without promising that one complaint will produce an immediate result. |
-| The primary audience was not always clear at the end. | Address travelers who use mobility devices and people helping them plan travel first. Present the policy recommendation as the secondary action. |
-| The draft still needs accessibility and technical cleanup. | Update the Shorthand metadata, remove placeholder captions, check for duplicated text, add alt text to the charts, and test the final story on desktop and mobile screens. |
+## High Priority
 
-The Part III revisions will focus first on the scatterplot, the policy marker, the carrier context, and the call to action. These issues affected comprehension or usefulness across several participant backgrounds. Feedback about individual style preferences will receive lower priority unless it also improves clarity, accessibility, or the needs of the primary audience.
+**Reduce the visual weight of the January 2025 rule marker.**  
+Several readers momentarily wondered whether the rule caused the decline, even though the text is careful. The current vertical line is visually strong. In the next version the marker will be lighter, and a short statement will sit next to it: the decline in the 12-month rate was already visible in 2024, before the rule took effect. Longer details about what the rule requires will move to a note or the methods section.
+
+**Simplify or relocate the volume-versus-rate scatterplot.**  
+This was the hardest chart for every participant. The log scale and limited labels made the main claim difficult to check quickly. Two alternatives will be tested. One is a simplified chart that labels only a few carriers and includes a one-sentence guide. The other replaces the scatterplot in the main path with a short table or two aligned comparisons of volume and rate for the largest carriers. If the simplified version still slows the story down, the full scatterplot will move to an optional section and only the written conclusion will stay in the main narrative.
+
+**Add context to the 2019–2025 carrier comparison.**  
+Readers understood that most carriers improved, but wanted more information before interpreting individual results. In the next version the tooltip or a supporting table will show both the rate and the number of devices enplaned in each year. A short note will state that rates for carriers handling fewer devices can vary more from year to year. A link to the official data source will be included so readers can check recent figures. The chart will continue to present the comparison as a set of facts rather than a ranking.
+
+## Medium Priority
+
+**Give the Separated stage more room.**  
+The three-stage journey was clear, but the moment the device leaves the passenger passed quickly. The Separated panel will receive more vertical space and one additional sentence so the handoff registers before the story moves into the data.
+
+**Reduce repetition in the middle of the story.**  
+The difference between rates and counts, and the caution about the 2025 rule, were clear but restated more often than needed. The fullest explanations will stay next to the first two charts. Later sections will refer back briefly instead of repeating the full point. The policy subsection will be shortened to a few sentences plus the lighter marker.
+
+**Make the call to action more concrete.**  
+Checking a carrier’s recent rate before booking felt useful. Reporting an incident felt less clear, and some readers doubted that a single complaint would produce a quick result. The ending will be split into two short parts. The first will tell travelers and people helping them plan to check which airline will operate the flight and review its recent reported mobility-device mishandling rate, with a link to the data. The second will explain how to document and report a mishandled device, and will note that these reports become part of the public record used in oversight without promising an immediate outcome for any one traveler. Travelers who use mobility devices and the people assisting them will be addressed first. The suggestion that rates be shown at booking will appear as a secondary point.
+
+## Lower Priority
+
+A single sentence will be added after the annual count chart to remind readers that a delayed or damaged device can leave a passenger without independent mobility at the destination. Chart titles and captions will use the word reported consistently. Placeholder text will be removed, alt text will be added to the charts, and the story will be tested on desktop and mobile before publication.
 
 # References
 
